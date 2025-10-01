@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si usas este dataset, por favor cítalo."
+title: "Corpus español etiquetado de depresión (v1.0)"
+authors:
+  - family-names: "Núñez"
+    given-names: "César"
+version: "1.0"
+date-released: "2025-10-01"
+doi: "10.5281/zenodo.xxxxxx"  # Sustituir tras crear el release conectado a Zenodo
+license: "CC-BY-4.0"
