@@ -1,4 +1,6 @@
 # Corpus español sobre depresión (v1.0)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17240022.svg)](https://doi.org/10.5281/zenodo.17240022)
+
 
 **Descripción breve.** Colección de mensajes en español etiquetados binariamente: `label=0` (no depresión) y `label=1` (depresión). Este repositorio contiene los **archivos de datos**, scripts auxiliares y metadatos para facilitar el uso y la citación del corpus.
 
