@@ -58,11 +58,12 @@ python scripts/make_splits.py data/corpus.csv --seed 42 --train 0.8 --val 0.1 --
 Este dataset está bajo **Creative Commons Attribution 4.0 (CC BY 4.0)**. Puedes compartir y adaptar el material siempre que des **crédito** al autor. Texto legal: https://creativecommons.org/licenses/by/4.0/legalcode
 
 ## Cómo citar
-Usa `CITATION.cff` o `CITATION.bib`.  
-*(Cuando tengas el DOI de Zenodo, reemplaza `XXXXX` y añade el badge al inicio del README):*
-```
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXX)
-```
+
+**APA 7**  
+Núñez-Prado, C. J., Talavera-Ortega, C., Sidorov, G., & Chanona-Hernández, L. (2025). *Corpus español etiquetado de depresión (v1.0)* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17240022
+
+**IEEE**  
+C. J. Núñez-Prado, C. Talavera-Ortega, G. Sidorov, and L. Chanona-Hernández, “Corpus español etiquetado de depresión (v1.0),” Zenodo, Dataset, 2025. doi: 10.5281/zenodo.17240022.
 
 ## Contacto
 Autor responsable: **César Jesús Núñez-Prado** · correo: **cnunezp@ipn.mx** · ORCID: **https://orcid.org/0000-0003-1700-9194**
